@@ -1,6 +1,7 @@
 {
     "name": "com.unzenity.core.binaries",
     "version": "0.0.1",
+    "hideInEditor": false,
     "displayName": "Gothic-UnZENity-Core-binaries",
     "description": "Binaries normally stored inside LFS. For sake of simplicity and cost neutrality, we load them from here.",
     "documentationUrl": "https://github.com/Gothic-UnZENity-Project/binary-dependencies",
