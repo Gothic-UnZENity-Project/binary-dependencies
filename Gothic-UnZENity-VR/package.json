@@ -1,0 +1,15 @@
+{
+    "name": "com.unzenity.vr.binaries",
+    "version": "1.0.0",
+    "hideInEditor": false,
+    "unity": "2022.3",
+    "displayName": "Gothic-UnZENity-VR-binaries",
+    "description": "Binaries normally stored inside LFS. For sake of simplicity and cost neutrality, we load them from here.",
+    "documentationUrl": "https://github.com/Gothic-UnZENity-Project/binary-dependencies",
+    "licensesUrl": "https://github.com/Gothic-UnZENity-Project/binary-dependencies/blob/main/LICENSE",
+    "author": {
+      "name": "Gothic-UnZENity Team",
+      "email": "TBD",
+      "url": "https://github.com/Gothic-UnZENity-Project/Gothic-UnZENity"
+    }
+  }
