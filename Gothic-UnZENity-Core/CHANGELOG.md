@@ -22,3 +22,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - Fixes multiple issues with file loading on Windows which caused Vfs mounting to fail in various places.
+
+
+## [1.0.3] - 2024-07-02
+
+### Added
+- Items (VOBs) now contain fields for _Amount_ and _Flags_ from save files.
