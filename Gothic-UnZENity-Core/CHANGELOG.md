@@ -28,3 +28,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Items (VOBs) now contain fields for _Amount_ and _Flags_ from save files.
+
+
+## [1.0.4] - 2024-08-04
+
+### Added
+- VOBs of type _oCNPC_ can be casted to _ZenKit.Vobs.Npc_ directly.
