@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.0.6] - 2024-08-31
+
+### Updated
+- Occlusion data for Gothic1 worlds.
+- Moved occlusion data into subfolder.
+
+### Added
+- Occlusion data for Gothic2 Night of the Raven worlds.
+
+
 ## [1.0.5] - 2024-08-10
 
 ### Fixed
