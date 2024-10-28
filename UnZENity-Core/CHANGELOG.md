@@ -6,31 +6,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [1.0.13] - 2024-10-20
+## [1.2.3] - 2024-10-13
 
 ### Fixed
-- Saving a SaveGame works with empty (Type=Unknown) Vob.Visual types. 
+- TextureBuilder won't crash when GC'd.
 
 
-## [1.0.12] - 2024-10-18
-
-### Fixed
-- ZenKit.Vobs.Npc Lists for Missions and HitChance are initialized with correct size. https://github.com/GothicKit/ZenKitCS/issues/13
-
-
-## [1.0.11] - 2024-10-13
+## [1.2.2] - 2024-10-13
 
 ### Fixed
 - Initializing multiple NpcInstances of same Index work correctly.
 
 
-## [1.0.10] - 2024-10-07
+## [1.2.1] - 2024-10-07
 
 ### Added
 - NpcInstance (subclass of DaedalusInstance) contains UserData field to store exchangeable data between ZenKit's objects and UnZENity ones.
 
 
-## [1.0.9] - 2024-09-22
+## [1.2.0] - 2024-09-22
 
 ### Fixed
 - Daedalus externals where strings are sent to ZenKit are encoded correctly.
@@ -39,20 +33,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Interfaces for all Vob types inside ZenKitCS added (I*VirtualObject). https://github.com/GothicKit/ZenKitCS/pull/12
 
 
-## [1.0.8] - 2024-09-20
+## [1.1.2] - 2024-09-20
 
 ## Updated
 - All scenes now have a Bootstrapping GameObject+Component attached (WorldSceneManager.cs). It will get called whenever the scene is loaded.
 
 
-## [1.0.7] - 2024-09-15
+## [1.1.1] - 2024-09-15
 
 ### Fixed
 - Daedalus support for _null_ return values when a class is expected (e.g. Hlp_GetNpc(); https://github.com/GothicKit/ZenKitCS/issues/10)
 - Daedalus support for DaedalusInstance as parameters for _overloaded_ external calls like Hlp_GetInstanceID() (https://github.com/GothicKit/ZenKitCS/issues/8)
 
 
-## [1.0.6] - 2024-08-31
+## [1.1.0] - 2024-08-31
 
 ### Updated
 - Occlusion data for Gothic1 worlds.
