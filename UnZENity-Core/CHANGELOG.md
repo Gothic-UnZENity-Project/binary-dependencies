@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.2.7] - 2025-06-01
+
+### Fixed
+- MenuItemInstance.GetText(i) is now using the passed index (https://github.com/GothicKit/ZenKitCAPI/issues/4)
+
+
 ## [1.2.6] - 2025-02-15
 
 ### Updated
