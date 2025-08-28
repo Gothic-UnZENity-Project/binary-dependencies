@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0] - 2025-08-28
+
+### Added
+- Reflex (DI framework) SceneScope to enable DI on world scenes.
+
+
+## [1.2.8] - 2025-08-21
+
+### Updated
+- bumping latest ZenKit*.dll files
+- Adds (e.g.,) DEF_HIT_LIMB properties for Animation to C# interface.
+
 
 ## [1.2.7] - 2025-06-01
 
